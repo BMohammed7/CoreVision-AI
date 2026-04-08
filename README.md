@@ -62,5 +62,5 @@ Open your browser to http://localhost:5173.
 
 ---
 
-Developed by: Burhanuddin Mohammed & Team
+Developed by: Burhanuddin Mohammed
 Challenge: Cognitive Innovation Competition 2026 - Stream 1
