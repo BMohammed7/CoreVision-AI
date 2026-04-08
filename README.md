@@ -45,7 +45,7 @@ Open your browser to http://localhost:5173.
 ### 3. Running the Competition Demo
 1. Nominal State: Start by showing the reactor's digital twin in the "Nominal" phase.
 
-2. Start Simulation: Click the "▶ Start Simulation" button in the top right corner.
+2. Start Simulation: Click the " Start Simulation" button in the top right corner.
 
 3. Observation: Watch as pressure drops and alarms trigger. Point out the rising "Cognitive Load" meter.
 
